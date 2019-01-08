@@ -68,6 +68,14 @@ Project paper                |   20   |    25.0%   |
     * Problem sets will be due on the day listed in the Daily Course Outline section of this syllabus (see below) unless otherwise specified. Late homework will not be graded.
 * **Project:** The project will either be a replication of an existing structural estimation paper or an original estimation project. I will approve each project. The final writeup of the project will be worthIt will be worth 20 points, which is equivalent to two homework assignments. The initial in-class presentation of your project proposal and your final in-class presentation of your project results will each be worth 5 points. The project write up will be due on Wednesday, March 8, the day after regular classes end (first reading day).
 
+## Assignment submission procedure
+
+This folder on your fork of the class repository `github.com/YourGitHubHandle/StructEst_W19/ProblemSets/` is where you will submit your problem sets and project assignments. You will just commit and push your assignments to the appropriate folder. For example, your files for PS1 should be committed to the PS1 folder on your fork of the class repository.
+
+`/StructEst_W18/ProblemSets/PS1/YourFile.pdf`
+
+I will use a shell script to clone all class members' repositories at the time the assignments are due.
+
 
 ## Daily Course Schedule ##
 
