@@ -84,10 +84,10 @@ I will use a shell script to clone all class members' repositories at the time t
 | Jan.  7 | M | Introduction                        |         |     |
 | Jan.  9 | W | Structural vs. reduced form disc.   | K2010   | [PS1](https://github.com/rickecon/StructEst_W19/blob/master/ProblemSets/PS1/PS1.pdf) |
 |         |   |                                     | R2010   |     |
-| Jan. 14 | M | Maximum likelihood estimation (MLE)  | [Notebk](https://github.com/rickecon/StructEst_W19/blob/master/Notebooks/MLE/MLest.ipynb) |     |
+| Jan. 14 | M | Maximum likelihood estimation (MLE)  | [Notebk](https://github.com/rickecon/StructEst_W19/blob/master/Notebooks/MLE/MLest.ipynb) | [PS2](https://github.com/rickecon/StructEst_W19/blob/master/ProblemSets/PS1/PS1.pdf) |
 | Jan. 16 | W | Maximum likelihood estimation (MLE) |  |     |
 | Jan. 21 | M | **No class (Martin Luther King, Jr. Day)** |    |     |
-| Jan. 23 | W | Compare ML and GMM                  | FMS1995 | PS2 |
+| Jan. 23 | W | Compare ML and GMM                  | FMS1995 |  |
 | Jan. 28 | M | Generalized method of moments (GMM) | Notes | PS3 |
 | Feb.  4 | M | Generalized method of moments (GMM) | H1982   |     |
 | Feb.  6 | W | Simulated Method of Moments (SMM)   | Notes |     |
