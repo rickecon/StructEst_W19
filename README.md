@@ -88,7 +88,7 @@ I will use a shell script to clone all class members' repositories at the time t
 | Jan. 16 | W | Maximum likelihood estimation (MLE) |  |     |
 | Jan. 21 | M | **No class (Martin Luther King, Jr. Day)** |    |     |
 | Jan. 23 | W | Compare ML and GMM                  | FMS1995 |  |
-| Jan. 28 | M | Generalized method of moments (GMM) | Notes | PS3 |
+| Jan. 28 | M | Generalized method of moments (GMM) | [Notebk](https://github.com/rickecon/StructEst_W19/blob/master/Notebooks/GMM/GMMest.ipynb) | PS3 |
 | Feb.  4 | M | Generalized method of moments (GMM) | H1982   |     |
 | Feb.  6 | W | Simulated Method of Moments (SMM)   | Notes |     |
 | Feb. 11 | M | Simulated Method of Moments (SMM)   | DM2004  | PS4 |
