@@ -91,8 +91,8 @@ I will use a shell script to clone all class members' repositories at the time t
 | Jan. 28 | M | Generalized method of moments (GMM) | [Notebk](https://github.com/rickecon/StructEst_W19/blob/master/Notebooks/GMM/GMMest.ipynb) | [PS3](https://github.com/rickecon/StructEst_W19/blob/master/ProblemSets/PS3/PS3.pdf) |
 | Jan. 30 | W | No Class: Winter Weather Cancellation |      |     |
 | Feb.  4 | M | Generalized method of moments (GMM) | H1982   |     |
-| Feb.  6 | W | Simulated Method of Moments (SMM)   | Notes |     |
-| Feb. 11 | M | Simulated Method of Moments (SMM)   | DM2004  | PS4 |
+| Feb.  6 | W | Simulated Method of Moments (SMM)   | [Notebk](https://github.com/rickecon/StructEst_W19/blob/master/Notebooks/SMM/SMMest.ipynb) | [PS4](https://github.com/rickecon/StructEst_W19/blob/master/ProblemSets/PS4/PS4.pdf) |
+| Feb. 11 | M | Simulated Method of Moments (SMM)   | DM2004  |  |
 |         |   |                                     | S2008   |       |
 | Feb. 13 | W | Proposal guidelines, example presentation, topics | Notes |  |
 | Feb. 18 | M | Workshop presentations, sign up     |     | PS5 |
