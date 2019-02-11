@@ -95,7 +95,7 @@ I will use a shell script to clone all class members' repositories at the time t
 | Feb. 11 | M | Simulated Method of Moments (SMM)   | DM2004  |  |
 |         |   |                                     | S2008   |       |
 | Feb. 13 | W | Proposal guidelines, example presentation, topics | Notes |  |
-| Feb. 18 | M | Workshop presentations, sign up     |     | PS5 |
+| Feb. 18 | M | Workshop presentations, sign up     |     |  |
 | Feb. 20 | W | Student proposal presentation       |         | Prop |
 | Feb. 25 | M | Project: Data Description           | ASV2013 |     |
 | Feb. 27 | W | Project: Model Description          |         |     |
