@@ -1,0 +1,34 @@
+# Projects Page for MACS 40200: Structural Estimation (Winter 2019)
+
+
+This page lists the projects and project members for each project group. It also includes a sign-up for project consultations.
+
+
+## Monday, February 18 Project Consultation Sign-up
+
+| Time  | Students        |
+|-------|-----------------|
+| 1:30p |                 |
+| 1:45p |                 |
+| 2:00p |                 |
+| 2:15p |                 |
+| 2:30p |                 |
+| 2:45p |                 |
+| 3:00p |                 |
+
+## Project Groups and Topics
+
+| Project members | Project topic | Project sources |
+|---------------|-----------------|-----------------|
+| Cristobal Cerda Meneses |           |             |
+| Kei Irizawa and Adam Oppenheimer | Calibrate Japanese OG model | DeBacker, et al (2018) |
+| Ginha Kim |           |             |
+| Daniel Perdomo |           |             |
+| Tim Schwieg |           |             |
+| Sergio Servan Lozano |           |             |
+| Ana Vasilj |           |             |
+
+
+## Project LaTeX template
+
+I have included a LaTeX project template in this directory [`LaTeX_projtemplate.tex`](). This file will call a .bib file to use BibTeX references, and it will call the image in the `images` folder.
