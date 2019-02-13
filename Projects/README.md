@@ -12,7 +12,7 @@ This page lists the projects and project members for each project group. It also
 | 1:45p | Daniel Noriega  |
 | 2:00p |                 |
 | 2:15p | Ginha Kim       |
-| 2:30p |                 |
+| 2:30p | Kei Irizawa and Adam Oppenheimer |
 | 2:45p |                 |
 | 3:00p |                 |
 
