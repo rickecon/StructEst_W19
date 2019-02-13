@@ -9,9 +9,9 @@ This page lists the projects and project members for each project group. It also
 | Time  | Students        |
 |-------|-----------------|
 | 1:30p |                 |
-| 1:45p |                 |
+| 1:45p | Daniel Noriega  |
 | 2:00p |                 |
-| 2:15p |                 |
+| 2:15p | Ginha Kim       |
 | 2:30p |                 |
 | 2:45p |                 |
 | 3:00p |                 |
@@ -20,13 +20,13 @@ This page lists the projects and project members for each project group. It also
 
 | Project members | Project topic | Project sources |
 |---------------|-----------------|-----------------|
-| Cristobal Cerda Meneses |           |             |
+| Cristobal Cerda Meneses | Consumer demand, discrete category | Dube |
 | Kei Irizawa and Adam Oppenheimer | Calibrate Japanese OG model | DeBacker, et al (2018) |
-| Ginha Kim |           |             |
-| Daniel Perdomo |           |             |
-| Tim Schwieg |           |             |
-| Sergio Servan Lozano |           |             |
-| Ana Vasilj |           |             |
+| Ginha Kim | Welfare costs of shipping intermediaries | Salz |
+| Daniel Perdomo | Carbon emissions | ? |
+| Tim Schwieg | Demand estimation in video game | ? |
+| Sergio Servan Lozano | Panel VAR Bayesian estimate | Canova and Cicharelli (?) |
+| Ana Vasilj | Estimate firm level markups | Arellano and Blundell (?), DeLoecker and Eeckhout |
 
 
 ## Project LaTeX template
