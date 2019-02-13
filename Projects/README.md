@@ -31,4 +31,4 @@ This page lists the projects and project members for each project group. It also
 
 ## Project LaTeX template
 
-I have included a LaTeX project template in this directory [`LaTeX_projtemplate.tex`](). This file will call a .bib file to use BibTeX references, and it will call the image in the `images` folder.
+I have included a LaTeX project template in this directory [`LaTeX_projtemplate.tex`](https://github.com/rickecon/StructEst_W19/blob/master/Projects/LaTeX_projtemplate.tex). This file will call a .bib file to use BibTeX references, and it will call the image in the `images` folder. I have included the compiled PDF file that results from the .tex, .bib, and image files.
