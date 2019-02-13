@@ -31,4 +31,8 @@ This page lists the projects and project members for each project group. It also
 
 ## Project LaTeX template
 
-I have included a LaTeX project template in this directory [`LaTeX_projtemplate.tex`](https://github.com/rickecon/StructEst_W19/blob/master/Projects/LaTeX_projtemplate.tex). This file will call a .bib file to use BibTeX references, and it will call the image in the `images` folder. I have included the compiled PDF file that results from the .tex, .bib, and image files.
+I have included the following LaTeX files for your project and project presentation in this directory.
+
+* a LaTeX project template, [`LaTeX_projtemplate.tex`](https://github.com/rickecon/StructEst_W19/blob/master/Projects/LaTeXtemplates/LaTeX_projtemplate.tex). This file will call a .bib file to use BibTeX references, and it will call the image in the `images` folder. I have included the compiled PDF file that results from the .tex, .bib, and image files.
+
+* A LaTeX beamer slides template, [`LaTeX_slides`](https://github.com/rickecon/StructEst_W19/blob/master/Projects/LaTeXtemplates/LaTeX_slides.tex). You can use this to create your project proposal slides and your final presentation slides.
