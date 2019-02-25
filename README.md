@@ -97,7 +97,8 @@ I will use a shell script to clone all class members' repositories at the time t
 | Feb. 13 | W | Proposal guidelines, example presentation, topics | [Slides](https://github.com/rickecon/StructEst_W19/blob/master/Projects/ProposalPresent.pdf) |  |
 | Feb. 18 | M | Workshop presentations, sign up     |     |  |
 | Feb. 20 | W | Student proposal presentation       |         | Prop |
-| Feb. 25 | M | Project: Data Description           | ASV2013 |     |
+| Feb. 25 | M | Project: Data Description           | [Slides](https://github.com/rickecon/StructEst_W19/blob/master/Projects/DataSection_slides.pdf), B2017  |     |
+|         |   |                                     | ASV2013, R1987 |     |
 | Feb. 27 | W | Project: Model Description          |         |     |
 | Mar.  4 | M | Project: Estimation Section         |         |     |
 | Mar.  6 | W | Project: Concl., Intro., Abstract   |         |     |
@@ -110,6 +111,7 @@ I will use a shell script to clone all class members' repositories at the time t
 
 * Adda, Jerome and Russell Cooper, *Dynamic Economics: Quantitative Methods and Applications*, MIT Press (2003)
 * Altonji, Joseph G., Anthony A. Smith, Jr., and Ivan Vidangos, "Modeling Earnings Dynamics," *Econometrica*, 84:4, pp. 1395-1454 (July 2013)
+* Blundell, Richard, "What Have We Learned From Structural Models?" *American Economic Review: Papers and Proceedings*, 107:5, pp. 287-292 (2017)
 * Brock, William A. and Leonard J. Mirman, "Optimal Economic Growth and Uncertainty: The Discounted Case," *Journal of Economic Theory*, 4:3, pp. 479-513 (June 1972)
 * Davidson, Russell and James G. MacKinnon, *Econometric Theory and Methods*, Oxford University Press (2004)
 * Duffie, Darrell and Kenneth J. Singleton, "Simulated Moment Estimation of Markov Models of Asset Prices", *Econometrica*, 61:4, pp. 929-952 (July 1993)
