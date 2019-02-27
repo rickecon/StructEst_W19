@@ -99,7 +99,8 @@ I will use a shell script to clone all class members' repositories at the time t
 | Feb. 20 | W | Student proposal presentation       |         | Prop |
 | Feb. 25 | M | Project: Data Description           | [Slides](https://github.com/rickecon/StructEst_W19/blob/master/Projects/DataSection_slides.pdf), B2017  |     |
 |         |   |                                     | ASV2013, R1987 |     |
-| Feb. 27 | W | Project: Model Description          |         |     |
+| Feb. 27 | W | Project: Model Description          | [Slides](https://github.com/rickecon/StructEst_W19/blob/master/Projects/ModelDescr_slides.pdf), DEP2019 |     |
+|         |   |                                     | LNT2016 |     |
 | Mar.  4 | M | Project: Estimation Section         |         |     |
 | Mar.  6 | W | Project: Concl., Intro., Abstract   |         |     |
 | Mar. 11 | M | Student project presentation        |         | Prsnt|
@@ -114,6 +115,7 @@ I will use a shell script to clone all class members' repositories at the time t
 * Blundell, Richard, "What Have We Learned From Structural Models?" *American Economic Review: Papers and Proceedings*, 107:5, pp. 287-292 (2017)
 * Brock, William A. and Leonard J. Mirman, "Optimal Economic Growth and Uncertainty: The Discounted Case," *Journal of Economic Theory*, 4:3, pp. 479-513 (June 1972)
 * Davidson, Russell and James G. MacKinnon, *Econometric Theory and Methods*, Oxford University Press (2004)
+* DeBacker, Jason, Richard W. Evans, and Kerk L. Phillips, "Integrating Microsimulation Models of Tax Policy into a DGE Macroeconomic Model," *Public Finance Review*,  47:2, pp. 207-275 (Mar. 2019)
 * Duffie, Darrell and Kenneth J. Singleton, "Simulated Moment Estimation of Markov Models of Asset Prices", *Econometrica*, 61:4, pp. 929-952 (July 1993)
 * Fuhrer, Jeffrey C. and George R. Moore, and Scott D. Schuh, "Estimating the Linear-quadratic Inventory Model: Maximum Likelihood versus Generalized Method of Moments," *Journal of Monetary Economics*, 35:1, pp. 115-157 (Feb. 1995).
 * Gourieroux, Christian and Alain Monfort, *Simulation-based Econometric Methods*, Oxford University Press (1996)
@@ -122,6 +124,7 @@ I will use a shell script to clone all class members' repositories at the time t
 * Keane, Michael P., "Structural vs. Atheoretic Approaches to Econometrics," *Journal of Econometrics*, 156:1, pp. 3-20 (May 2010).
 * Laroque, G. and B. Salanie, "Simulation Based Estimation Models with Lagged Latent Variables", *Journal of Applied Econometrics*, 8:Supplement, pp. 119-133 (December 1993)
 * Lee, Bong-Soo and Beth Fisher Ingram, "Simulation Estimation of Time Series Models", *Journal of Econometrics*, 47:2-3, pp. 197-205 (February 1991)
+* Li, Xin, Borghan Narajabad, and Ted Temzelides, "Robust Dynamic Energy Use and Climate Change," *Quantitative Economics*, 7, pp. 821-857 (2016)
 * McDonald, James B., "Some Generalized Functions for the Size Distribution of Income," *Econometrica* 52:3, pp. 647-665 (May 1984)
 * McDonald, James B. and Yexiao Xu, "A Generalization of the Beta Distribution with Applications," *Journal of Econometrics*, 66:1-2, pp. 133-152 (March-April 1995)
 * McDonald, James B., Jeff Sorensen, and Patrick A. Turley, "Skewness and Kurtosis Properties of Income Distribution Models," *Review of Income and Wealth*, 59:2, pp. 360-374 (June 2013)
