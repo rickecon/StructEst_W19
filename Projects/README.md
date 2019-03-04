@@ -29,6 +29,25 @@ This page lists the projects and project members for each project group. It also
 | Ana Vasilj | Estimate firm level markups | Arellano and Blundell (?), DeLoecker and Eeckhout |
 
 
+## Project presentation times
+
+### Monday, March 11
+| Time slot    | Presenter | Topic |
+|--------------|-----------------|-----------------|
+| 1:30 - 1:50p |  |  |
+| 1:55 - 2:15p |  |  |
+| 2:20 - 2:40p |  |  |
+| 2:45 - 3:05p |  |  |
+
+### Wednesday, March 13
+| Time slot    | Presenter | Topic |
+|--------------|-----------------|-----------------|
+| 1:30 - 1:50p |  |  |
+| 1:55 - 2:15p |  |  |
+| 2:20 - 2:40p |  |  |
+| 2:45 - 3:05p |  |  |
+
+
 ## Project LaTeX template
 
 I have included the following LaTeX files for your project and project presentation in this directory.
