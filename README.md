@@ -101,7 +101,7 @@ I will use a shell script to clone all class members' repositories at the time t
 |         |   |                                     | ASV2013, R1987 |     |
 | Feb. 27 | W | Project: Model Description          | [Slides](https://github.com/rickecon/StructEst_W19/blob/master/Projects/ModelDescr_slides.pdf), DEP2019 |     |
 |         |   |                                     | LNT2016 |     |
-| Mar.  4 | M | Project: Estimation Section         |         |     |
+| Mar.  4 | M | Project: Estimation Section         | [Slides](https://github.com/rickecon/StructEst_W19/blob/master/Projects/EstimResults_slides.pdf) |     |
 | Mar.  6 | W | Project: Concl., Intro., Abstract   |         |     |
 | Mar. 11 | M | Student project presentation        |         | Prsnt|
 | Mar. 13 | W | Student project presentation        |         | Prsnt|
