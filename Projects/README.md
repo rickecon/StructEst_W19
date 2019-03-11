@@ -31,21 +31,18 @@ This page lists the projects and project members for each project group. It also
 
 ## Project presentation times
 
-### Monday, March 11
+### Friday, March 15
 | Time slot    | Presenter | Topic |
-|--------------|-----------------|-----------------|
-| 1:30 - 1:50p |  |  |
-| 1:55 - 2:15p |  |  |
-| 2:20 - 2:40p |  |  |
-| 2:45 - 3:05p |  |  |
+|----------------|-------------------------|-----------------|
+|  9:00 -  9:20a | Ana Vasilj              |  |
+|  9:25 -  9:45a | Sergio Servan Lozano    |  |
+|  9:50 - 10:10a | Timothy Schwieg         |  |
+| 10:15 - 10:35a | Adam Oppenheimer        |  |
+|                | and Kei Irizawa         |  |
+| 10:40 - 11:00a | Daniel Noriega Perdomo  |  |
+| 11:05 - 11:25a | Ginha Kim               |  |
+| 11:30 - 11:50a | Cristobal Cerda Meneses |  |
 
-### Wednesday, March 13
-| Time slot    | Presenter | Topic |
-|--------------|-----------------|-----------------|
-| 1:30 - 1:50p |  |  |
-| 1:55 - 2:15p |  |  |
-| 2:20 - 2:40p |  |  |
-| 2:45 - 3:05p |  |  |
 
 
 ## Project LaTeX template
