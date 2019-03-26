@@ -56,13 +56,13 @@ Grades will be based on the four categories listed below with the corresponding 
 
 Assignment                   | Points |   Percent  |
 -----------------------------|--------|------------|
-Problem Sets                 |   50   |    62.5%   |
-Project initial presentation |    5   |     6.3%   |
-Project final presentation   |    5   |     6.3%   |
-Project paper                |   20   |    25.0%   |
-**Total points**             | **80** | **100.0%** |
+Problem Sets                 |   40   |    57.2%   |
+Project initial presentation |    5   |     7.1%   |
+Project final presentation   |    5   |     7.1%   |
+Project paper                |   20   |    28.6%   |
+**Total points**             | **70** | **100.0%** |
 
-* **Homework:** I will assign 5 problem sets throughout the term.
+* **Homework:** I will assign 4 problem sets throughout the first half of the term.
     * You must write and submit your own computer code, although I encourage you to collaborate with your fellow students. I **DO NOT** want to see a bunch of copies of identical code. I **DO** want to see each of you learning how to code these problems so that you could do it on your own.
     * Problem set solutions, both written and code portions, will be turned in via a pull request from your private [GitHub.com](https://git-scm.com/) repository which is a fork of the class master repository on my account. (You will need to set up a GitHub account if you do not already have one.)
     * Problem sets will be due on the day listed in the Daily Course Outline section of this syllabus (see below) unless otherwise specified. Late homework will not be graded.
